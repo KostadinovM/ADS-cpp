@@ -1,0 +1,9 @@
+﻿  Sorting.cpp
+c:\freedev\algorithms\project1\sorting.cpp(88): warning C4101: 'k': unreferenced local variable
+c:\freedev\algorithms\project1\sorting.cpp(88): warning C4101: 'j': unreferenced local variable
+c:\freedev\algorithms\project1\sorting.cpp(88): warning C4101: 'i': unreferenced local variable
+  Searching.cpp
+c:\freedev\algorithms\searching\searching.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\freedev\algorithms\searching\searching.cpp(57): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Algorithms.vcxproj -> C:\FreeDev\DS\Debug\Algorithms.exe
