@@ -1,5 +1,11 @@
-bin/Debug
-bin/Release
+Algorithms/Debug
+Graph/Debug
+LinkedList/Debug
+LRU/Debug
+Queue/Debug
+Trie/Debug
+Tree/Debug
+Debug/
 
 # Prerequisites
 *.d
